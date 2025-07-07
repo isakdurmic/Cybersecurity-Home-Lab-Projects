@@ -8,12 +8,11 @@ This repository documents a hands-on cybersecurity project performed within a vi
 
 * **Host OS:** macOS (MacBook Pro)
 * **Virtualization:** VMware Fusion
-* **Guest OS:** Kali Linux 2024.x (or whatever version you have installed)
+* **Guest OS:** Kali Linux 2025.2 (or whatever version you have installed)
 * **Networking:** NAT (Network Address Translation)
 * **Web Server:** Nginx
-* **Firewall:** iptables
 * **Browsers:** Safari, Google Chrome (for testing)
-* **Command Line Interface:** Bash
+* **Command Line Interface:** Bash and macOS Terminal
 
 ---
 
