@@ -1,6 +1,6 @@
 # My Cybersecurity-Home-Lab-Projects
 
-Hello! This repo is where I'm documenting all the hands-on cybersecurity projects I'm working on in my home lab (virtual machine environment). I am basically documenting my journey of trying to learn this stuff by doing it, breaking things, and then figuring out how to fix them.
+Hello! This repo is where I'm documenting all the hands-on cybersecurity projects I'm working on in my home lab (virtual machine environment). I am documenting my journey of trying to learn this stuff by doing it, breaking things, and then figuring out how to fix them.
 
 ---
 
