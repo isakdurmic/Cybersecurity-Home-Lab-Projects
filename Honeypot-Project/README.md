@@ -102,6 +102,16 @@ cat cowrie.log | grep “login attempt”
 
 ---
 
+**Screenshots/Evidence**
+**Evidence:**
+* Screenshot: Kali Linux VM - Honeypot Configuration
+  [![Kali Linux VM - Honeypot 1](kali-linux-vm-honeypot-1.png)](kali-linux-vm-honeypot-1.png)
+* Screenshot: Kali Linux VM - Honeypot Log Output
+  [![Kali Linux VM - Honeypot 2](kali-linux-vm-honeypot-2.png)](kali-linux-vm-honeypot-2.png)
+* Screenshot: Windows VM - SSH Login Attempt from Command Prompt
+  [![Windows VM - Command Prompt (SSH Login Attempt)](windows-vm-command-prompt-ssh-login-attempt.png)](windows-vm-command-prompt-ssh-login-attempt.png)
+
+---
 
 What I learned and practiced
 
