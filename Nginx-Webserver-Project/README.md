@@ -19,7 +19,7 @@ This repository documents a hands-on cybersecurity project performed within a vi
 
 ## Table of Contents
 
-* [Project 1: Deploying a Simple Web Server with Nginx and Monitoring Logs](#project-2-deploying-a-simple-web-server-with-nginx-and-monitoring-logs)
+* [Project 1: Deploying a Simple Web Server with Nginx and Monitoring Logs](#project-1-deploying-a-simple-web-server-with-nginx-and-monitoring-logs)
 
 ---
 
