@@ -22,8 +22,8 @@ This section details the primary technologies and tools used across these projec
 
 Below is a structured log of the completed and ongoing projects within this lab. Each project has its own dedicated directory with comprehensive documentation.
 
-* [Project: Honeypot Deployment](#project-honeypot-project)
-* [Project: Nginx Web Server and Firewall](#project-nginx-web-server-and-firewall)
+* [Project: Honeypot Deployment](#project-honeypot-deployment)
+* [Project: Nginx Web Server Deployment and Log Analysis](#project-nginx-web-server-deployment-and-log-analysis)
 
 ---
 
