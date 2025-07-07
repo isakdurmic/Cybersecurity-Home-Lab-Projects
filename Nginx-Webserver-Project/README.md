@@ -78,10 +78,10 @@ This repository documents a hands-on cybersecurity project performed within a vi
 * `http://192.168.210.131` (in browser)
 
 **Screenshots/Evidence:**
-* *nginx-status-active.png*
-* *nginx-port-80-listener*
-* *mac-safari-access.png*
-* *nginx-access-logs*
+* [Screenshot: `sudo systemctl status nginx` output confirming Nginx is active and running.](nginx-status-active.png)
+* [Screenshot: `sudo ss -tulnp | grep :80` output clearly showing Nginx listening on port 80.](nginx-port-80-listener.png)
+* [Screenshot: Safari on macOS displaying the "Welcome to Nginx!" page from the Kali VM's IP address.](mac-safari-access.png)
+* [Screenshot: Kali terminal showing the `access.log` updating in real-time with recent web requests.](nginx-access-logs.png)
 
 **Key Takeaways:**
 * Only one service can listen on a given port at a time; conflicts can be very tricky to diagnose. Issues with Apache2
