@@ -35,7 +35,7 @@ This project involved setting up a basic honeypot on a Kali Linux VM. The primar
 
 ---
 
-### Project: Nginx Web Server
+### Project: Nginx Web Server and Log Analysis
 
 This project focused on the practical deployment of a basic Nginx web server within the Kali Linux VM. It covered initial setup, ensuring network accessibility from the host machine, and critical log analysis for monitoring server activity and identifying potential security events.
 
